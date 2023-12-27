@@ -1,0 +1,3 @@
+CustomUnsupportedOperationException: Invalid operation!
+	at MyCalc.operation(MyCalc.java:19)
+	at Main.main(Main.java:11)
